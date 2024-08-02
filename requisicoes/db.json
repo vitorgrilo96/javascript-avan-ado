@@ -1,0 +1,66 @@
+{
+  "marcas": [
+    {
+      "id": "1",
+      "nome": "apple"
+    },
+    {
+      "id": "2",
+      "nome": "samsung"
+    },
+    {
+      "id": "9600",
+      "nome": "Nvidia"
+    },
+    {
+      "id": "a06f",
+      "nome": "razer"
+    },
+    {
+      "id": "9de9",
+      "nome": "razer"
+    },
+    {
+      "id": "6e40",
+      "nome": "razer"
+    },
+    {
+      "id": "b4b8",
+      "nome": "razer"
+    }
+  ],
+  "filmes": [
+    {
+      "id": "1",
+      "nome": "avengers",
+      "duracao": 180,
+      "classificacao": 5
+    },
+    {
+      "id": "3d0b",
+      "nome": "guerra mundial z",
+      "duracao": 180,
+      "classificacao": 4.5
+    }
+  ],
+  "estados": [
+    {
+      "id": "1",
+      "nome": "santa catarina",
+      "sigla": "SC"
+    },
+    {
+      "id": "09c8",
+      "nome": "rio grande do sul",
+      "sigla": "RS"
+    },
+    {
+      "id": "5d57",
+      "nome": "paraná",
+      "sigla": "PR"
+    },
+    {
+      "id": "bec9"
+    }
+  ]
+}
