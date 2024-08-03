@@ -1,8 +1,8 @@
 {
   "marcas": [
     {
-      "id": "1",
-      "nome": "apple"
+      "nome": "asus",
+      "id": "1"
     },
     {
       "id": "2",
@@ -13,16 +13,8 @@
       "nome": "Nvidia"
     },
     {
-      "id": "a06f",
-      "nome": "razer"
-    },
-    {
-      "id": "9de9",
-      "nome": "razer"
-    },
-    {
-      "id": "6e40",
-      "nome": "razer"
+      "nome": "microsoft",
+      "id": "6e40"
     },
     {
       "id": "b4b8",
@@ -60,7 +52,14 @@
       "sigla": "PR"
     },
     {
-      "id": "bec9"
+      "nome": "são paulo",
+      "sigla": "SP",
+      "id": "c985"
+    },
+    {
+      "nome": "minas gerais",
+      "sigla": "MG",
+      "id": "f361"
     }
   ]
 }
