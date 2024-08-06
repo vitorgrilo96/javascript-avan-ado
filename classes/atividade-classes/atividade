@@ -1,0 +1,26 @@
+Ex 1: Criar uma classe chamada Pessoa com os seguintes itens:
+Propriedades:
+- Nome
+- Sobrenome
+- Idade
+- Altura
+- Peso
+Métodos:
+- Apresentar nome completo
+- Calcular o imc
+
+Ex 2: Criar uma classe calculadora com os seguintes itens abaixo:
+Métodos:
+Somar: recebendo como parâmetro o número 1 e número 2.
+
+Ex 3: Criar uma classe Colaborador com os seguites itens:
+Propriedades:
+- Nome
+- CPF
+- Quantidade de horas
+- Valor Hora começa com 6.50 por padrão
+- Valor dos descontos
+- Valor dos acrescimos
+Método: 
+- Calcular salarioBruto
+- Calcular salarioLiquido
